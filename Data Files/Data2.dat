@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Data2</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>dd4c80b2-5487-4beb-9dc0-1cdb334dc9e0</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://demo-db.c44lxg7zul2w.eu-north-1.rds.amazonaws.com:3306/DB</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>TmluYWNoa2ExOTY3Pz8/</password>
+   <query>Select * from Employee</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>admin</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
