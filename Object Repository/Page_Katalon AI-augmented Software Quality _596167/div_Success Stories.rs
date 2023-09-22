@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Success Stories</name>
+   <tag></tag>
+   <elementGuidId>bae88ff0-12a2-45bf-bb95-811634acd2a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div[2]/div/div/div/a[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>98b9f290-336e-4012-9a4f-7f2270ef613f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content_title</value>
+      <webElementGuid>2921ab10-4e2c-4624-a420-4ddcfce62b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success Stories</value>
+      <webElementGuid>e93fc0b3-ca75-47c3-a0d2-6d3b5a80c201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header undefined&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown why_katalon&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;left_content&quot;]/div[@class=&quot;business_outcome_and_success_stories&quot;]/a[@class=&quot;item&quot;]/div[@class=&quot;content_col&quot;]/div[@class=&quot;content_title&quot;]</value>
+      <webElementGuid>d9a62fde-45b7-4a27-9ef9-46dee8366fd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div[2]/div/div/div/a[2]/div[2]/div</value>
+      <webElementGuid>0a200988-aa5a-4669-9e70-e25cdb829110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A digital transformation success with software testing'])[1]/following::div[3]</value>
+      <webElementGuid>8ba2a7d5-001a-4615-bf6d-dbc8566f3338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Outcomes'])[1]/following::div[4]</value>
+      <webElementGuid>2067e286-4914-4e47-9924-990f053c9e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How startups to the Fortune 500s launched software faster'])[1]/preceding::div[1]</value>
+      <webElementGuid>36e8d846-10d6-4d60-8ebd-9c71e4419ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy, speed'])[1]/preceding::div[2]</value>
+      <webElementGuid>d6b92b03-95d5-46e1-864f-4b4d788d76bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Success Stories']/parent::*</value>
+      <webElementGuid>0a000bdd-57cc-45fb-b387-6ebc0ca4aef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]/div</value>
+      <webElementGuid>153992fa-2994-45d5-9525-bafa7dfb0fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Success Stories' or . = 'Success Stories')]</value>
+      <webElementGuid>49eec813-6f34-4c6e-b948-d5a375a13749</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

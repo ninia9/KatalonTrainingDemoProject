@@ -19,17 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
+WebUI.navigateToUrl('https://www.globalsqa.com/demo-site/frames-and-windows/#iFrame')
 
-WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_username'), username)
+WebUI.click(findTestObject('Object Repository/Page_Frames and Window Dummy Testing Site -_484b9f/a_Mobile Application Testing TrainingSoftwa_597561'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
-
-WebUI.delay(5)
-
-WebUI.verifyTextPresent('Dashboard', false)
+WebUI.click(findTestObject('Object Repository/Page_Frames and Window Dummy Testing Site -_484b9f/span_Sortable'))
 
 WebUI.closeBrowser()
 
